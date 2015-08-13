@@ -1,0 +1,4 @@
+Dear User,
+Oh! You've forgotten your password. No big deal,
+click on the following URL to reset it:
+{{ url('password/reset/'.$token) }}

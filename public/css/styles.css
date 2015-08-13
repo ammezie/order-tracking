@@ -1,0 +1,36 @@
+.navi, .wrapper {
+	margin-bottom: 40px;
+}
+
+.wrapper {
+	margin-top: 100px;
+}
+
+.pan {
+	background-color: purple;
+	color: #fff;
+}
+
+.button {
+	background-color: #96133e;
+}
+
+.button:hover {
+	background-color: #149a00;
+}
+
+.top-bar {
+	height: 70px;
+}
+
+.top-bar-section li.active:not(.has-form) a:not(.button) {
+	background-color: #96133e;
+}
+
+a {
+	color: #96133e;
+}
+
+a:hover {
+	color: #149a00;
+}

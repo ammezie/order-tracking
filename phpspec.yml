@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: tracking
+        psr4_prefix: tracking
+        src_path: app
