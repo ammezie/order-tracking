@@ -1,3 +1,3 @@
-## Order Tracking System
+## Order Tracking
 
-Order Tracking System is a system that is used to tracking orders placed online. The system generates random number which is then used to track orders.
+Order Tracking is a system that is used to tracking orders placed online for e-commerce stores. The system generates random number which is then used to track orders.
