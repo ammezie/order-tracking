@@ -11,8 +11,8 @@
 |
 */
 
-Route::get('track', 'TracksController@index');
-Route::get('track/view', 'TracksController@tracks');
+Route::get('', 'TracksController@index');
+Route::get('view', 'TracksController@tracks');
 
 // Signup Routes
 Route::get('admin/signup', 'Auth\AuthController@getRegister');
